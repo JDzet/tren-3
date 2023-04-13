@@ -1,0 +1,16 @@
+C:\Users\jaros\source\repos\tren 3\tren 3\bin\Debug\tren 3.exe.config
+C:\Users\jaros\source\repos\tren 3\tren 3\bin\Debug\tren 3.exe
+C:\Users\jaros\source\repos\tren 3\tren 3\bin\Debug\tren 3.pdb
+C:\Users\jaros\source\repos\tren 3\tren 3\bin\Debug\EntityFramework.dll
+C:\Users\jaros\source\repos\tren 3\tren 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaros\source\repos\tren 3\tren 3\bin\Debug\EntityFramework.xml
+C:\Users\jaros\source\repos\tren 3\tren 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren 3.csproj.AssemblyReference.cache
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren_3.Form1.resources
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren_3.Properties.Resources.resources
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren 3.csproj.GenerateResource.cache
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren 3.csproj.CoreCompileInputs.cache
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren 3.csproj.CopyComplete
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren 3.exe
+C:\Users\jaros\source\repos\tren 3\tren 3\obj\Debug\tren 3.pdb
